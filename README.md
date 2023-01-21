@@ -3,6 +3,7 @@
 ## About me 👨‍💻
 I'm a passionate and dedicated frontend and mobile developer with a degree from the University of Padova. I love my work and am always eager to learn and grow as a developer.</h3>
 
+[![Giacomo's Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fwww.giacomosassaro.com%2F)](https://www.giacomosassaro.com/)
 [![Giacomo's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giacomo-sassaro-8a119b18a)
 [![Giacomo's Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/panzzzzz)
 [![Giacomo's Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giacomo.sassaro/)
